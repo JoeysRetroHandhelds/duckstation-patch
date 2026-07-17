@@ -1,5 +1,7 @@
 # DuckStation Patch
 
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://joeysrh.link/discord)
+
 A patch for the [DuckStation](https://github.com/stenzek/duckstation) Android APK
 that moves user data out of the restricted `Android/data` path and into
 `/storage/emulated/0/DuckStation`, making it accessible to file managers
