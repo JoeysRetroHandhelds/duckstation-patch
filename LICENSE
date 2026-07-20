@@ -1,24 +1,27 @@
-This is free and unencumbered software released into the public domain.
+# Licensing Notice
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+This repository is an unofficial community project and is not affiliated with, endorsed by, or supported by the DuckStation project or its developers.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+## DuckStation
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+DuckStation is copyright its respective authors, including Connor McLaughlin, and is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license.
 
-For more information, please refer to <https://unlicense.org>
+Official project:
+
+https://github.com/stenzek/duckstation
+
+License:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+DuckStation names, binaries, source code, and other DuckStation materials are not licensed under any separate license used by this repository.
+
+## Original material in this repository
+
+Documentation and other material created entirely by Joey’s Retro Handhelds remain copyright Joey’s Retro Handhelds unless a file expressly states otherwise.
+
+No license is granted for third-party material beyond the permissions provided by its original copyright holder.
+
+## Disclaimer
+
+This repository is provided without warranty. DuckStation’s developers are not responsible for this repository, its instructions, or any resulting software.
