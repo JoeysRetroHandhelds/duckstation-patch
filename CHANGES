@@ -1,0 +1,13 @@
+# Changes from DuckStation
+
+This project applies the following changes to DuckStation Android version `0.1-8969-g611bb8fb4`:
+
+1. Adds the Android `MANAGE_EXTERNAL_STORAGE` permission.
+2. Requests “All files access” when the modified application first launches.
+3. Changes the preferred user-data location to:
+   `/storage/emulated/0/DuckStation`
+4. Retains the standard application-specific data location as a fallback when permission is denied.
+
+No affiliation with or endorsement by DuckStation or its developers is claimed.
+
+The original DuckStation APK distributed with this project is unmodified. The changes listed above are produced only after the user separately applies the Xdelta patch.
