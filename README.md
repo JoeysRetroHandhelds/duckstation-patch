@@ -26,6 +26,16 @@ This project is provided for noncommercial use only. No fee is charged for acces
 
 Do not contact the official DuckStation project for support with this patch or a patched installation.
 
+## Required source APK
+
+This patch applies only to the following unmodified DuckStation Android APK:
+
+* Version: `0.1-8969-g611bb8fb4`
+* SHA-256: `28F1528DFFB87A761AB1997A5D23BB62C5AA191B3A242A79A9BAEB3629B206F5`
+* Original project: https://github.com/stenzek/duckstation
+
+Do not apply this patch to another DuckStation release. Verify the APK’s SHA-256 checksum before applying the patch.
+
 ## What this patch does
 
 - Adds the `MANAGE_EXTERNAL_STORAGE` permission
