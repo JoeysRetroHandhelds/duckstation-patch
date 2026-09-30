@@ -7,6 +7,8 @@ that moves user data out of the restricted `Android/data` path and into
 `/storage/emulated/0/DuckStation`, making it accessible to file managers
 on Android 11 and later.
 
+AI was used for the entire project.
+
 ## Important licensing and project notice
 
 This is an unofficial, independently maintained patching project. It is not affiliated with, endorsed by, or supported by DuckStation or its developers.
